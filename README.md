@@ -1,2 +1,24 @@
-# airbnb-clone-front
-신나는 에어비엔비 클론코딩~ (  Exciting Airbnb Clone Coding )
+# 에어비엔비 (클론코딩)
+
+신나는 에어비엔비 클론코딩~ ( Exciting Airbnb Clone Coding )
+
+기본적인 html 과 css 로 구현
+
+## 기간
+
+2023-02-23 ~ 2023-02-??
+
+## 배포링크
+
+## 사용언어
+
+- HTML
+- CSS
+
+## 트러블슈팅
+
+- 없음
+
+## 배운점
+
+-
