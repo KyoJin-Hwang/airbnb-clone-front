@@ -4,11 +4,13 @@
 
 기본적인 html 과 css 로 구현
 
+![image](https://user-images.githubusercontent.com/84490050/221493591-60105817-03ec-42a0-b5be-99dacc89da99.png)
+
 ## 기간
 
 2023-02-23 ~ 2023-02-26
 
-## 배포링크
+## 배포링크 X
 
 ## 사용언어
 
